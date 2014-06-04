@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project>
+  <actions/>
+  <description></description>
+  <project-properties class="java.util.concurrent.ConcurrentHashMap">
+    <entry>
+      <string>org-valgrind-forhudson-ValgrindPublisher</string>
+      <external-property>
+        <originalValue class="org.valgrind.forhudson.ValgrindPublisher">
+          <valgrindPublisherConfig>
+            <pattern></pattern>
+            <failThresholdInvalidReadWrite></failThresholdInvalidReadWrite>
+            <failThresholdDefinitelyLost></failThresholdDefinitelyLost>
+            <failThresholdTotal></failThresholdTotal>
+            <unstableThresholdInvalidReadWrite></unstableThresholdInvalidReadWrite>
+            <unstableThresholdDefinitelyLost></unstableThresholdDefinitelyLost>
+            <unstableThresholdTotal></unstableThresholdTotal>
+            <publishResultsForAbortedBuilds>false</publishResultsForAbortedBuilds>
+            <publishResultsForFailedBuilds>false</publishResultsForFailedBuilds>
+          </valgrindPublisherConfig>
+        </originalValue>
+        <propertyOverridden>false</propertyOverridden>
+        <modified>true</modified>
+      </external-property>
+    </entry>
+    <entry>
+      <string>scm</string>
+      <scm-property>
+        <originalValue class="hudson.scm.NullSCM"/>
+        <propertyOverridden>false</propertyOverridden>
+      </scm-property>
+    </entry>
+  </project-properties>
+  <keepDependencies>false</keepDependencies>
+  <creationTime>1401887700226</creationTime>
+  <properties/>
+  <cascadingChildrenNames class="java.util.concurrent.CopyOnWriteArraySet"/>
+  <cascading-job-properties class="java.util.concurrent.CopyOnWriteArraySet"/>
+  <scm class="hudson.scm.NullSCM"/>
+  <canRoam>false</canRoam>
+  <disabled>false</disabled>
+  <blockBuildWhenDownstreamBuilding>false</blockBuildWhenDownstreamBuilding>
+  <blockBuildWhenUpstreamBuilding>false</blockBuildWhenUpstreamBuilding>
+  <concurrentBuild>false</concurrentBuild>
+  <cleanWorkspaceRequired>false</cleanWorkspaceRequired>
+</project>

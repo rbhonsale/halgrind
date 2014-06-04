@@ -1,0 +1,2 @@
+#Wed Jun 04 08:21:03 CDT 2014
+constructor=valgrindExecutable,workingDirectory,includePattern,excludePattern,outputDirectory,outputFileEnding,showReachable,undefinedValueErrors,leakCheckLevel,programOptions,valgrindOptions,trackOrigins,ignoreExitCode,traceChildren,childSilentAfterFork

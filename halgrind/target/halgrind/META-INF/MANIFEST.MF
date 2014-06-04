@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Built-By: Rahul
+Created-By: Apache Maven
+Build-Jdk: 1.6.0_65
+Extension-Name: halgrind
+Specification-Title: Hudson Continuous Integration Server
+Specification-Vendor: Hudson
+Implementation-Vendor: Hudson
+Implementation-Title: halgrind
+Implementation-Version: 1.0-SNAPSHOT
+Short-Name: halgrind
+Long-Name: Halgrind
+Url: http://hudson-ci.org/hudson-plugin-parent/halgrind/
+Plugin-Version: 1.0-SNAPSHOT (private-06/04/2014 08:21-Rahul)
+Hudson-Version: 2.2.1
+
